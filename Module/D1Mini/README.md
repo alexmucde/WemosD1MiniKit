@@ -2,10 +2,10 @@
 
 # Microcontroller D1 Mini
 
-## Bild
+## Bilder
 
-![D1 Mini 4MB vorne](Bilder/D1_Mini_4MB_vorne.JPEG | width=100)
-![D1 Mini 4MB hinten](Bilder/D1_Mini_4MB_hinten.JPEG)
+<img src="Bilder/D1_Mini_4MB_vorne.JPEG" alt="drawing" width="200"/>
+<img src="Bilder/D1_Mini_4MB_hinten.JPEG" alt="drawing" width="210"/>
 
 ## Ausstattung
 
