@@ -1,6 +1,8 @@
 # Dokumentation zum WEMOS D1 Mini Kit
 Das WEMOS D1 Mini Kit bietet einen einfachen und kostengünstigen Einstieg in die Mikrokontroller Programmierung und den Aufbau erster Sensornetzwerke. Die WEMOS D1 Mini Module und ihre diversen Varianten sind sehr beliebt in der Maker Szene. Das hier vorgestellte Kit soll den Einstieg vereinfachen, indem bereits fertig gelötete und getestete Module bereitgestellt werden. Somit ist kein Lötequipment und keine Lötkemntnisse notwendig. Das einzige Voraussetzung um das Kit nutzen zu können ist ein PC oder Notebook mit Windows, Linux oder macOS. In dieser Dokumentation wird nur auf Windows eingegangen. Die Programmierung erfolgt in der Programmiersprache C, ist aber aufgrund der vielen Besipiele auch einfach zu erlernen.
 
+![WEMOS D1 Mini Kit](Bilder/WEMOS_D1_Mini_Kit_1.JPEG | width=100)
+
 Das Kit besteht aus einen Basisboard mit drei Steckplätzen, einem Mikrocontroller Board und verschiedenen Modulen mit diversen Sensoren und Aktoren. Je nach Variante des Kits werden unterschiedliche Varianten eines Microcontrallers und eine unterschiedliche ANzahl von Sensormodulen bereitgestellt.
 
 Das Kit kann vom Entwickler des Kits erworben werden, vorerst über einen persönlichen Kontakt, später auch noch über Ebay. Das Projekt wird über den Verkauf des Kits finanziert.

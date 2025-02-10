@@ -4,7 +4,8 @@
 
 ## Bild
 
-TBD
+![D1 Mini 4MB vorne](Bilder/D1_Mini_4MB_vorne.JPEG | width=100)
+![D1 Mini 4MB hinten](Bilder/D1_Mini_4MB_hinten.JPEG)
 
 ## Ausstattung
 
