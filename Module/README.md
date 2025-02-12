@@ -22,6 +22,4 @@ In diesem Kapitel werden die einzelnen Module des Kits vorgestellt. Je nach Kit 
 
 <img src="PIR/Bilder/PIR_vorne.JPEG" alt="drawing" width="50"/>  [PIR](PIR/README.md)
 
-<img src="PIR/Bilder/PIR_vorne.JPEG" alt="drawing" width="50"/>  [PIR](PIR/README.md)
-
 [<< Zurück](../README.md)
