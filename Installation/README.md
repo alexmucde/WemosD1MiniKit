@@ -22,10 +22,16 @@ Unter folgendem Link findest du eine Schritt für Schritt Anleitung zur Installa
 
 [USB Treiber Installation](USBTreiber/README.md)
 
+## Schritt 3: Sprache der Arduino IDE in Deutsch ändern
 
-## Schritt 3: Installation der Boardbibilothek mit Hilfe des Board Managers
+Unter dem Menüpunkt File/Settings kannst du die Sprache auch auf Deutsch umstellen.
+Anschließend musst du das Programm neu starten.
+
+## Schritt 4: Installation der Boardbibilothek mit Hilfe des Board Managers
 
 Für das Microcontroller Board D1 Mini wird das Board Paket "esp8266" benötigt. Öffne den Boardmanager durch Druck auf das zweite Symbol von oben auf der linken Seite oder im Menü "Tools/Board/Board Manager". Gebe im Suchfeld des Board Managers "esp8266" ein und es wird das Paket "esp8266" der ESP8266 Community angezeigt.
+
+<img src="Bilder/board_manager.jpg" alt="drawing" width="600"/>
 
 Starte die Installation durch Druck auf "INSTALL".
 
@@ -33,7 +39,23 @@ Wenn die Installation fertig ist erscheint das Board Paket "esp8266" auch im Men
 
 Als nächstes musst du das verwendete Board auswählen "LOLIN(WEMOS) D1 R2 & mini". Das machst du über den Menüpunkt "Tools/Board/esp8266/LOLIN(WEMOS) D1 R2 & mini".
 
-## Schritt 4: Anschluss des Microcontrollers an den PC und Auswahl des COM Ports
+<img src="Bilder/board_auswahl.jpg" alt="drawing" width="600"/>
+
+## Schritt 5: Installation weiterer Bibliotheken
+
+Damit du bestimmte Module verwenden kannst musst du noch ein paar Bibliotheken installieren. In den einzelnen Modulbeschreibungen wird jeweils beschrieben welche Bibliothek benötigt wird.
+
+Eine Bibliothek kannst du ganz einfach unter dem Menüpunkt "Werkzeuge/Bibliotheken verwalten.." oder über das dritte Symbol von oben auf der Linken Leiste. Gebe oben Links einen Teil des Names der Bibliothek ein, z.B. NeoPixel und drücke dann auf Installieren der benötigten Bibliothek.
+
+<img src="Bilder/bibliothek_manager.jpg" alt="drawing" width="600"/>
+
+Installiere folgende Bibliotheken:
+
+- Adafruit Neo Pixelvon Adafruit (RGB LED)
+
+
+
+## Schritt 6: Anschluss des Microcontrollers an den PC und Auswahl des COM Ports
 
 Stecke das Microncontroller Board auf das Basisboard zum Beispiel auf den mittleren Steckplatz. Du kannst alle drei beliebigen Steckplätze benutzen. Achte auf die richtige Polung. Die Pins mit der Beschriftung müssen übereinstimmen, z.B. Tx auf Tx und RST auf RST.
 
@@ -48,7 +70,11 @@ In der Arduino IDE werden unter dem Menüpunkt Tools/Port: alle an deinem PC ver
 > [!TIP]
 > Alternativ kann das Board und der angeschlossene Port auch über dem "Select other Board and Port..." in der Toolbar oben ausgewählt werden.
 
-## Schritt 5: Das Erste Microcontroller Programm
+<img src="Bilder/port_auswahl.jpg" alt="drawing" width="600"/>
+
+In unserem Beispiel ist es der Port COM8, es kann bei dir aber auch ein anderer Port sein.
+
+## Schritt 7: Das Erste Microcontroller Programm
 
 Das erste Microcontroller Programm das wir schreiben lässt die integrierte LED des D1 Mini Microcontroller Moduls blinken. Die LED wird für eine Sekunde eingeschaltet und für zwei Sekunden ausgeschaltet. Dies wird endlos wiederholt.
 
@@ -78,10 +104,16 @@ void loop()
 
 Arduino Programme bestehen aus den zwei Funktionen setup() und loop(). setup() wird nur einmal beim ersten Start des Programmes aufgerufen, wenn der Microcontroller eingeschaltet wird. Die Funktion loop() wird kontinuierlich immer wieder aufgerufen.
 
+<img src="Bilder/erstes_programm.jpg" alt="drawing" width="600"/>
+
 ## Schritt 6: Kompilierung und Übertragung des Programmes auf den Microcontroller
 
-Als erstes muss das Programm geprüft und übersetzt werden. Drücke dafür im Menü auf "Sketch/Verify/Compile" oder auf das erste Symbol ober in der Toolbar. Wenn alles erfolgreich war erscheint "Done/Compiling".
+Als erstes muss das Programm geprüft und übersetzt werden. Drücke dafür im Menü auf "Sketch/Überprüfen/Kompilieren" oden auf das erste Symbol ober in der Toolbar. Wenn alles erfolgreich war erscheint "Kompilieren erfolgreich.".
 
-Als nächstes musst du das Programm auf den Microcontroller hochladen. Benutze den Menüpunkt "Sketch/Upload" oder das zweite Symbol auf der oberen Toolbar. Wenn das erfolgreich war erscheint "Uploading Done".
+Als nächstes musst du das Programm auf den Microcontroller hochladen. Benutze den Menüpunkt "Sketch/Upload" oder das zweite Symbol auf der oberen Toolbar. Wenn das erfolgreich war erscheint "Hochladen erfolgreich.".
+
+<img src="Bilder/hochladen.jpg" alt="drawing" width="600"/>
+
+Als nächstes machen wir uns näher mit dem WEMOS D1 Mini Board vertraut und lösen unsere erste Aufgabe.
 
 [<< Zurück](../README.md)

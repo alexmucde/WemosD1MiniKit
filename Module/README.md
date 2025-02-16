@@ -12,7 +12,7 @@ In diesem Kapitel werden die einzelnen Module des Kits vorgestellt. Je nach Kit 
 
 <img src="Basisboard/Bilder/WEMOS_Basisboard_vorne.JPEG" alt="drawing" width="50"/>  [Basisboard](Basisboard/README.md)
 
-<img src="RGB_LED/Bilder/RGB_LED_vorne.JPEG" alt="drawing" width="50"/> [RGB LED](LED/README.md)
+<img src="RGB_LED/Bilder/RGB_LED_vorne.JPEG" alt="drawing" width="50"/> [RGB LED](RGB_LED/README.md)
 
 <img src="LED_Matrix/Bilder/LED_Matrix_vorne.JPEG" alt="drawing" width="50"/> [LED Matrix](LED_Matrix/README.md)
 
