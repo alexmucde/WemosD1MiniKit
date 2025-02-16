@@ -8,9 +8,7 @@
 
 ## Blockschaltbild
 
-<img src="../../Module/Taste/Bilder/pins.jpg" alt="drawing" width="200"/>
-<img src="../../Module/D1Mini/Bilder/pins.jpg" alt="drawing" width="420"/>
-<img src="../../Module/RGB_LED/Bilder/pins.jpg" alt="drawing" width="197"/>
+<img src="../../Module/Taste/Bilder/pins.jpg" alt="drawing" width="200"/><img src="../../Module/D1Mini/Bilder/pins.jpg" alt="drawing" width="420"/><img src="../../Module/RGB_LED/Bilder/pins.jpg" alt="drawing" width="197"/>
 
 ## Beschreibung
 

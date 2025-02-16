@@ -8,9 +8,7 @@
 
 ## Blockschaltbild
 
-<img src="../../Module/RGB_LED/Bilder/pins.jpg" alt="drawing" width="200"/>
-<img src="../../Module/D1Mini/Bilder/pins.jpg" alt="drawing" width="420"/>
-<img src="../../Module/PIR/Bilder/pins.jpg" alt="drawing" width="230"/>
+<img src="../../Module/RGB_LED/Bilder/pins.jpg" alt="drawing" width="200"/><img src="../../Module/D1Mini/Bilder/pins.jpg" alt="drawing" width="420"/><img src="../../Module/PIR/Bilder/pins.jpg" alt="drawing" width="230"/>
 
 ## Beschreibung
 
