@@ -22,4 +22,16 @@ In diesem Kapitel werden die einzelnen Module des Kits vorgestellt. Je nach Kit 
 
 <img src="PIR/Bilder/PIR_vorne.JPEG" alt="drawing" width="50"/>  [PIR](PIR/README.md)
 
+<img src="OLED_Shield/Bilder/vorne.JPEG" alt="drawing" width="50"/>  [OLED Shield](OLED_Shield/README.md)
+
+<img src="Ambient_Light/Bilder/vorne.JPEG" alt="drawing" width="50"/>  [Ambient Light](Ambient_Light/README.md)
+
+<img src="IR_Controller/Bilder/vorne.JPEG" alt="drawing" width="50"/>  [IR COntroller](IR_Controller/README.md)
+
+## Nicht mehr lieferbare Module
+
+<img src="7_RGB_LED/Bilder/vorne.JPEG" alt="drawing" width="50"/>  [7 RGB LEDs](7_RGB_LED/README.md)
+
+<img src="OLED_Shield_2/Bilder/vorne.JPEG" alt="drawing" width="50"/>  [OLED Shield mit 2 Tasten](OLED_Shield_2/README.md)
+
 [<< Zurück](../README.md)
