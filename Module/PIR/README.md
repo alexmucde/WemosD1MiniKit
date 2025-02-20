@@ -70,17 +70,4 @@ Unter folgendem Link findest du die Lösung der ersten Aufgabe.
 
 [Lösung Aufgabe 1](loesung_1.md)
 
-### Aufgabe 2: Blinken einer Ampel
-
-Als zweite Aufgabe lasse wir die LED ähnlich einer Ampel blinken:
-
-- Rot 10s
-- Gelb 1s
-- Grün 10s
-- Gelb 2s
-
-Unter folgendem Link findest du die Lösung der ersten Aufgabe.
-
-[Lösung Aufgabe 2](loesung_2.md)
-
 [<< Zurück](../README.md)

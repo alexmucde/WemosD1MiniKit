@@ -417,6 +417,4 @@ void testscrolltext(void) {
 ```
 Kompiliere und lade das Programm hoch, wie bereits in der Installation gelernt.
 
-[Lösung Aufgabe 1](loesung_1.md)
-
 [<< Zurück](../README.md) 
